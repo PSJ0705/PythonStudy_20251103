@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1763126674,,"q!"
+|2,0,1763474764,,"q!"
+:wq
+|2,0,1763474655,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +27,32 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.bashrc
-|4,48,1,0,1763126674,"~/.bashrc"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1763474764,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1763474655,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.bashrc
+|4,50,1,0,1763126674,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1763474764,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1763474655,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1763126674,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1763126674,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1763126674,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1763126674,"~/.bashrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1763474747	0
+	"	1	0
 
 > ~/.bashrc
 	*	1763126673	0
